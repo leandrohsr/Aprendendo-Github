@@ -2,13 +2,18 @@
  Aprendendo usar git e github
 # Aprendendo a linguagem Markdown.(Título Nível 1)
 ---
+
 __Negrito__ ou **Negrito**
----
+
+
 _Itálico_ ou *Itálico*
----
+
+
 __*Negrito e Itálico*__
----
+
+
 ~~Taxado~~
+
 ---
 ## Título Nível 2
 ### Título Nível 3
